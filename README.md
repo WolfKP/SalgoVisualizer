@@ -23,7 +23,6 @@ Salgo Visualizer is a Java application that visualizes maze generation and pathf
   1. In the repository, open the dist directory and download the executable JAR file.
   2. In your terminal, navigate to the directory where SalgoVisualizer.jar is located and do:
 
-    ```
-    java -jar SalgoVisualizer.jar
-    ```
-
+      ```
+      java -jar SalgoVisualizer.jar
+      ```
